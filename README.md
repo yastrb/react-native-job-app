@@ -9,3 +9,6 @@
 - create customAPI data fetching hooks
 - implement search & pagination functionality 
 
+![alt text](https://github.com/yastrb/react-native-job-app/blob/master/assets/images/app.jpg)
+![alt text](https://github.com/yastrb/react-native-job-app/blob/master/assets/images/app_1.jpg)
+
