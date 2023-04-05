@@ -18,7 +18,7 @@ const Welcome = ({searchTerm, setSearchTerm, handleClick}) => {
   return (
     <View>
       <View style={styles.container}>
-        <Text style={styles.userName}>Hello Olenka</Text>
+        <Text style={styles.userName}>Hello User!</Text>
         <Text style={styles.welcomeMessage}>Find your perfect job</Text>
       </View>
       <View style={styles.searchContainer}>

@@ -38,8 +38,8 @@ const JobDetails = () => {
 
     const onRefresh = useCallback(() => {
         setRefreshing(true);
-        refetch()
-        setRefreshing(false)
+        refetch();
+        setRefreshing(false);
     }, []);
 
     const displayTabContent = () => {
